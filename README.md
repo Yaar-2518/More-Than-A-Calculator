@@ -2,6 +2,10 @@
 
 Welcome to **More-Than-A-Calculator**! This calculator does more than just simple math—it can help you learn math formulas, keep track of your calculations, and much more. This guide will show you how to use all the cool features of this calculator.
 
+# Project Description
+
+More-Than-A-Calculator is an educational and multifunctional calculator designed to help students and enthusiasts not only perform basic arithmetic operations but also learn and understand important mathematical formulas. This tool is perfect for students who want to reinforce their math skills in a fun and interactive way. By using this program, users can perform addition, subtraction, multiplication, division, floor division, and power calculations effortlessly. Moreover, the calculator includes a unique feature that teaches various mathematical formulas, complete with examples and step-by-step explanations. Users can view their calculation history to keep track of their progress and clear the history when needed. The clear and user-friendly interface makes it easy for anyone, especially young students, to navigate and use the program effectively. More-Than-A-Calculator combines practicality with education, making it a valuable tool for homework, studying, or simply exploring the world of mathematics. Whether you're trying to solve a tricky math problem or just practicing your math skills, More-Than-A-Calculator is here to help!
+
 ## Table of Contents
 
 - [Features](#features)
