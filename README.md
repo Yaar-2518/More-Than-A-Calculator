@@ -174,4 +174,4 @@ Thank you for using More-Than-A-Calculator! We hope you have fun using it and le
 I made this as the final project for Stanford University's Code In Place - 2024
 
 
-This project was made with ❤️ by Aryan Agrawal
+This project was made with ❤️ by Aryan Agrawal 👨‍💻
