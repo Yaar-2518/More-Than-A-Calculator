@@ -222,4 +222,5 @@ def f9(x,y,z):
                = {x+y+z} x {x**2 + y**2 + z**2 - x*y - y*z - z*x}
                = {x**3 + y**3 + z**3 - 3*x*y*z}''')
        
-main()
+if __name__ == "__main__":
+    main()
