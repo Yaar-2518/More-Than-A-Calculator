@@ -171,7 +171,6 @@ elif choice == 10:
 
 ## Thank You
 Thank you for using More-Than-A-Calculator! We hope you have fun using it and learning new things. If you have any questions or feedback, feel free to let us know. Happy calculating!
-I made this as the final project for Stanford University's Code In Place - 2024
 
 
 This project was made with ❤️ by Aryan Agrawal 👨‍💻
